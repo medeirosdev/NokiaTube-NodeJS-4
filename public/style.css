@@ -19,9 +19,10 @@ body{
     height: 100vh;
 }
 #h1n{
-    margin:40px;
+    margin:20px;
     padding:20px 40px;
     border-radius: 40px;
+    background-color: aliceblue;
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
@@ -34,4 +35,17 @@ body{
     display:flex;
     flex-direction: column;
     align-items: center;
+}
+
+#formanswer{
+    font-size: 1.5rem;
+    padding: 10px 20px;
+    border-radius: 40px;
+    margin:15px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+
+#button22{
+    margin: 20px;
 }
